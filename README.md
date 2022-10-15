@@ -43,8 +43,8 @@
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" /> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kunwarvk01&show_icons=true&theme=radical" alt="Vimal Kunwar Stats" width=50% />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunwarvk01&show_icons=true&theme=radical" alt="Vimal Kunwar stats" width=50% /></p>
+<p><img align= src="https://github-readme-stats.vercel.app/api?username=kunwarvk01&show_icons=true&theme=radical" alt="Vimal Kunwar Stats" width="50%" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=kunwarvk01&show_icons=true&theme=radical" alt="Vimal Kunwar stats" width="50%" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunwarvk01&show_icons=true&locale=en" alt="Vimal Kunwar Stats" /></p> -->
 
