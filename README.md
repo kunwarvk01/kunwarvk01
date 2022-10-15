@@ -1,4 +1,4 @@
-<h1 align="center">Hi ! I'm Vimal Kunwar</h1>
+<h1 align="center">Hi There! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"> I'm Vimal Kunwar</h1>
 <h3 align="center">A Multidisciplinary Full-Stack Developer from Dehradun INDIA</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
