@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
 
-- 🔭 I’m currently working on [Qazini website](https://www.qazini.com/)
+- 🔭 I’m currently working on [Personal Project](https://)
 
 - 🌱 I’m currently learning **MongoDB, Mongoose**
 
 - 👯 I’m looking to collaborate on **Any Open Source/ Community Project**
 
-- 👨‍💻 All of my projects are available at [kunwarvk01](https://)
+- 👨‍💻 All of my projects are available at **[kunwarvk01](https://)**
 
-- 💬 Ask me about ** React, JavaScript, NodeJS, Express **
+- 💬 Ask me about **React, JavaScript, NodeJS, Express**
 
 - 📫 How to reach me **kunwarvk01@gmail.com**
 
