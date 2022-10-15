@@ -43,7 +43,7 @@
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" /> </a>
 </p>
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Vimal's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=kunwarvk01&custom_title=Vimal's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img  src="https://github-readme-stats.vercel.app/api?username=kunwarvk01&show_icons=true&theme=radical" alt="Vimal Kunwar Stats" width="50%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunwarvk01&show_icons=true&theme=radical" alt="Vimal Kunwar stats" width="50%" />
