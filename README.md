@@ -49,7 +49,7 @@
     </a>
 </p>
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=kunwarvk01&custom_title=Vimal's%20activity%20graph&theme=theme=radical_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=kunwarvk01&custom_title=Vimal's%20activity%20graph&theme=radical_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <table width="960px">
     <tr>
