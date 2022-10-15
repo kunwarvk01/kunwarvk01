@@ -6,8 +6,12 @@
     <img src="https://komarev.com/ghpvc/?username=kunwarvk01&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden"/>
 </p>
 
-- 🔭 I’m currently working on [Personal Project](https://) - 🌱 I’m currently learning **MongoDB, Mongoose** - 👯 I’m looking to collaborate on **Any Open Source/ Community Project** - 👨‍💻 All of my projects are available at
-**[kunwarvk01](https://)** - 💬 Ask me about **React, JavaScript, NodeJS, Express** - 📫 How to reach me **kunwarvk01@gmail.com** - ⚡ Fun fact **I'm good with people**
+- 🔭 I’m currently working on [Personal Project](https://) 
+- 🌱 I’m currently learning **MongoDB, Mongoose** 
+- 👯 I’m looking to collaborate on **Any Open Source/ Community Project** 
+- 👨‍💻 All of my projects are available at **[kunwarvk01](https://)** 
+- 💬 Ask me about **React, JavaScript, NodeJS, Express** 
+- 📫 How to reach me **kunwarvk01@gmail.com** - ⚡ Fun fact **I'm good with people**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
