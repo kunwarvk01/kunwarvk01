@@ -11,7 +11,8 @@
 - 👯 I’m looking to collaborate on **Any Open Source/ Community Project** 
 - 👨‍💻 All of my projects are available at **[kunwarvk01](https://)** 
 - 💬 Ask me about **React, JavaScript, NodeJS, Express** 
-- 📫 How to reach me **kunwarvk01@gmail.com** - ⚡ Fun fact **I'm good with people**
+- 📫 How to reach me **kunwarvk01@gmail.com** 
+- ⚡ Fun fact **I'm good with people**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -54,14 +55,12 @@
 </p>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=kunwarvk01&theme=radical&bg_color=20232a&hide_border=true" width="100%"/>
-
-<table width="960px">
-    <tr>
-        <td valign="top" width="50%">
-            <img src="https://github-readme-stats.vercel.app/api?username=kunwarvk01&show_icons=true&theme=radical" alt="Vimal Kunwar Stats"/>
-        </td>
-        <td valign="top" width="50%">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunwarvk01&show_icons=true&theme=radical" alt="Vimal Kunwar stats"/>
-        </td>
-    </tr>
-</table>
+<div align="center">
+     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+        <img align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=kunwarvk01&theme=radical&border=61dafb&hide_border=true" />
+    </a>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+        <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=kunwarvk01&show_icons=true&theme=radical&border_color=61dafb&hide_border=true"/>
+    </a>
+   
+</div>
