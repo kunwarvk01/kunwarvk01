@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[Personal Project]**(https://)
 - 🌱 I’m currently learning **MongoDB, Mongoose** 
-- 👯 I’m looking to collaborate on **Any Open/ Community Project** 
+- 👯 I’m looking to collaborate on **OpenSource /Community Project** 
 - 👨‍💻 All of my projects are available at **[kunwarvk01](https://)** 
 - 💬 Ask me about **React, JavaScript, NodeJS, Express** 
 - 📫 How to reach me **kunwarvk01@gmail.com** 
