@@ -43,6 +43,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kunwarvk01&show_icons=true&theme=radical" alt="Vimal Kunwar Stats" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunwarvk01&show_icons=true&locale=en" alt="Vimal Kunwar Stats" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunwarvk01&show_icons=true&locale=en" alt="Vimal Kunwar Stats" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunwarvk01&" alt="Vimal Kunwar stats" /></p>
