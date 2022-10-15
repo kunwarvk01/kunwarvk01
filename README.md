@@ -57,10 +57,10 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=kunwarvk01&theme=radical&bg_color=20232a&hide_border=true" width="100%"/>
 <div align="center">
      <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-        <img align="left" width=410 src="https://github-readme-streak-stats.herokuapp.com/?user=kunwarvk01&theme=radical&border=61dafb&hide_border=true" />
+        <img align="left" width=405 src="https://github-readme-streak-stats.herokuapp.com/?user=kunwarvk01&theme=radical&border=61dafb&hide_border=true" />
     </a>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-        <img align="right" width=410 src="https://github-readme-stats.vercel.app/api?username=kunwarvk01&show_icons=true&theme=radical&border_color=61dafb&hide_border=true"/>
+        <img align="right" width=405 src="https://github-readme-stats.vercel.app/api?username=kunwarvk01&show_icons=true&theme=radical&border_color=61dafb&hide_border=true"/>
     </a>
    
 </div>
