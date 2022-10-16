@@ -23,7 +23,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
-   [![My Skills](https://skills.thijs.gg/icons?i=git,html,css,js,jquery,ts,nodejs,angular,react,tailwind,mongodb,cpp,javaf&theme=dark)](https://skills.thijs.gg)
+   [![My Skills](https://skills.thijs.gg/icons?i=git,html,css,js,jquery,ts,nodejs,angular,react,tailwind,mongodb,cpp,java&theme=dark)](https://skills.thijs.gg)
 </div>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=kunwarvk01&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
