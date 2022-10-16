@@ -7,7 +7,7 @@
 </p>
 
 - 🔭 I’m currently working on **[Personal Project](https://)**
-- 🌱 I’m currently learning **MongoDB, Mongoose** 
+- 🌱 I’m currently learning **RestAPI** 
 - 👯 I’m looking to collaborate on **OpenSource /Community Project** 
 - 👨‍💻 All of my projects are available at **[kunwarvk01](https://)** 
 - 💬 Ask me about **React, JavaScript, NodeJS, Express** 
