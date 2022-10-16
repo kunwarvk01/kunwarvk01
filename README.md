@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on **OpenSource /Community Project** 
 - 👨‍💻 All of my projects are available at **[kunwarvk01](https://)** 
 - 💬 Ask me about **React, JavaScript, NodeJS, Express** 
-- 📫 How to reach me **kunwarvk01@gmail.com** 
+- 📫 Reach me at **kunwarvk01@gmail.com** 
 - ⚡ Fun fact **I'm good with people**
 
 <h3 align="left">Connect with me:</h3>
