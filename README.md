@@ -62,11 +62,14 @@
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
     </a>
+    <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-plain.svg" alt="babel" width="40" height="40"/>
+    </a>
     <a href="https://angular.io/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40"/>
     </a>
-    <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-plain.svg" alt="babel" width="40" height="40"/>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/nextjs/nextjs-original-wordmark.svg" alt="NextJS" width="40" height="40"/>
     </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
