@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="43%" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif"/>
 
 <p align="left">
-    <img src="https://github-readme-activity-graph.cyclic.app/?username=kunwarvk01&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden"/>
+    <img src="https://komarev.com/ghpvc/?username=kunwarvk01&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden"/>
 </p>
 
 - 🔭 I’m currently working on **[Personal Project](https://)**
