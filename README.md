@@ -89,7 +89,7 @@
     
 </p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=kunwarvk01&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=kunwarvk01&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 <div align="center">
      <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
         <img align="left" width=402 src="https://github-readme-streak-stats.herokuapp.com/?user=kunwarvk01&theme=radical&border=61dafb&hide_border=true" />
