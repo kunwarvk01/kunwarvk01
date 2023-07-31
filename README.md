@@ -6,13 +6,13 @@
     <img src="https://komarev.com/ghpvc/?username=kunwarvk01&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden"/>
 </p>
 
-- 🔭 I’m currently working on **[Personal Project](https://)**
-- 🌱 I’m currently learning **RestAPI** 
+- 🔭 I’m currently working on **Devspace Networking(https://)**
+- 🌱 I’m currently learning **Appwite Authentication** 
 - 👯 I’m looking to collaborate on **OpenSource /Community Project** 
 - 👨‍💻 All of my projects are available at **[kunwarvk01](https://)** 
-- 💬 Ask me about **React, JavaScript, NodeJS, Express** 
+- 💬 Ask me about **React, JavaScript, NodeJS, MongoDB, DevOps** 
 - 📫 Reach me at **kunwarvk01@gmail.com** 
-- ⚡ Fun fact **I'm a good listener**
+- ⚡ Fun fact **I'm a Visual Artist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
