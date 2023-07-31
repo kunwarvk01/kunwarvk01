@@ -87,22 +87,13 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
     </a>
     <a href="" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/strapi/strapi-plain.svg" alt="photoshop" width="40" height="40"/>
-    </a>
-    <a href="" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="photoshop" width="40" height="40"/>
     </a>
     <a href="" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-plain.svg" alt="photoshop" width="40" height="40"/>
     </a>
     <a href="" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg" alt="photoshop" width="40" height="40"/>
-    </a>
-    <a href="" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="photoshop" width="40" height="40"/>
-    </a>
-    <a href="" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-plain.svg" alt="photoshop" width="40" height="40"/>
     </a>
     <a href="" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="photoshop" width="40" height="40"/>
