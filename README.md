@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Devspace Networking(https://)**
 - 🌱 I’m currently learning **Appwite Authentication** 
-- 👯 I’m looking to collaborate on **OpenSource /Community Project** 
+- 👯 I’m looking to collaborate on **OpenSource/Community Project** 
 - 👨‍💻 All of my projects are available at **[kunwarvk01](https://)** 
 - 💬 Ask me about **React, JavaScript, NodeJS, MongoDB, DevOps** 
 - 📫 Reach me at **kunwarvk01@gmail.com** 
